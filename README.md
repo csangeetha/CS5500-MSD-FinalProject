@@ -1,4 +1,4 @@
-# team-108-SP19
+# Chatter Project
 Welcome to the team repository for Managing Software Development Team 108.
 This repository contains code for the prattle server application.
 
